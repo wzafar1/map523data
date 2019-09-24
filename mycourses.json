@@ -2,47 +2,47 @@
     "student": "Wahab Zafar",
     "version": "1.0.0",
     "timestamp": "2019-09-14T11:11:11+0000",
-    "count": 14,
+    "count": 10,
     "data": [
         {
             "id": 0,
-            "code": "WEB422",
-            "name": "Web Programming for Apps and Services"
+            "code": "DBA 625",
+            "name": "DBASE Administration"
         },
         {
             "id": 1,
-            "code": "JAC444",
-            "name": "Introduction to Java for C++ Programmers"
+            "code": "PMC 115",
+            "name": "IT Project Mgmt. Fundamentals"
         },
         {
             "id": 2,
-            "code": "BCI433",
-            "name": "IBM Business Computing"
+            "code": "PRJ 666",
+            "name": "Project Implementation"
         },
         {
             "id": 3,
-            "code": "EAC594",
-            "name": "Business Communication for the Digital Workplace"
+            "code": "PRJ 566",
+            "name": "Project Planning & Management"
         },
         {
             "id": 4,
-            "code": "MAP523",
+            "code": "MAP 523",
             "name": "Mobile App Development - iOS"
         },
         {
             "id": 5,
-            "code": "DBS301",
-            "name": "Database Design II and SQL Using Oracle"
+            "code": "EAC 397",
+            "name": "Business Report Writing"
         },
         {
             "id": 6,
-            "code": "OOP345",
-            "name": "Object-Oriented Software Development Using C++"
+            "code": "WEB 422",
+            "name": "Web Prog. for Apps & Services"
         },
         {
             "id": 7,
-            "code": "SYS366",
-            "name": "Requirements Gathering Using OO Models"
+            "code": "SYS 466",
+            "name": "Analysis And Design"
         },
         {
             "id": 8,
@@ -51,33 +51,13 @@
         },
         {
             "id": 9,
-            "code": "EAC411",
-            "name": "Language of the Media"
+            "code": "BCI 433",
+            "name": "IBM Business Computing"
         },
         {
             "id": 10,
-            "code": "DBS201",
-            "name": "Introduction to Database Design and SQL"
-        },
-        {
-            "id": 11,
-            "code": "DCF255",
-            "name": "Data Communications Fundamentals"
-        },
-        {
-            "id": 12,
-            "code": "OOP244",
-            "name": "Introduction to Object Oriented Programming"
-        },
-        {
-            "id": 13,
-            "code": "WEB222",
-            "name": "Web Programming Principles"
-        },
-        {
-            "id": 14,
-            "code": "HIS554",
-            "name": "Guns and Peasants in East Asia"
+            "code": "JAC 444",
+            "name": "Intro to Java C++"
         }
     ]
 }
