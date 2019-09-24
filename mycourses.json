@@ -6,43 +6,43 @@
     "data": [
         {
             "id": 0,
-            "courseCode": "WEB422",
-            "courseName": "Web Programming for Apps and Services"
+            "code": "WEB422",
+            "name": "Web Programming for Apps and Services"
         },
         {
             "id": 1,
-            "courseCode": "JAC444",
-            "courseName": "Introduction to Java for C++ Programmers"
+            "code": "JAC444",
+            "name": "Introduction to Java for C++ Programmers"
         },
         {
             "id": 2,
-            "courseCode": "BCI433",
-            "courseName": "IBM Business Computing"
+            "code": "BCI433",
+            "name": "IBM Business Computing"
         },
         {
             "id": 3,
-            "courseCode": "EAC594",
-            "courseName": "Business Communication for the Digital Workplace"
+            "code": "EAC594",
+            "name": "Business Communication for the Digital Workplace"
         },
         {
             "id": 4,
-            "courseCode": "MAP523",
-            "courseName": "Mobile App Development - iOS"
+            "code": "MAP523",
+            "name": "Mobile App Development - iOS"
         },
         {
             "id": 5,
-            "courseCode": "DBS301",
-            "courseName": "Database Design II and SQL Using Oracle"
+            "code": "DBS301",
+            "name": "Database Design II and SQL Using Oracle"
         },
         {
             "id": 6,
-            "courseCode": "OOP345",
-            "courseName": "Object-Oriented Software Development Using C++"
+            "code": "OOP345",
+            "name": "Object-Oriented Software Development Using C++"
         },
         {
             "id": 7,
-            "courseCode": "SYS366",
-            "courseName": "Requirements Gathering Using OO Models"
+            "code": "SYS366",
+            "name": "Requirements Gathering Using OO Models"
         },
         {
             "id": 8,
@@ -51,33 +51,33 @@
         },
         {
             "id": 9,
-            "courseCode": "EAC411",
-            "courseName": "Language of the Media"
+            "code": "EAC411",
+            "name": "Language of the Media"
         },
         {
             "id": 10,
-            "courseCode": "DBS201",
-            "courseName": "Introduction to Database Design and SQL"
+            "code": "DBS201",
+            "name": "Introduction to Database Design and SQL"
         },
         {
             "id": 11,
-            "courseCode": "DCF255",
-            "courseName": "Data Communications Fundamentals"
+            "code": "DCF255",
+            "name": "Data Communications Fundamentals"
         },
         {
             "id": 12,
-            "courseCode": "OOP244",
-            "courseName": "Introduction to Object Oriented Programming"
+            "code": "OOP244",
+            "name": "Introduction to Object Oriented Programming"
         },
         {
             "id": 13,
-            "courseCode": "WEB222",
-            "courseName": "Web Programming Principles"
+            "code": "WEB222",
+            "name": "Web Programming Principles"
         },
         {
             "id": 14,
-            "courseCode": "HIS554",
-            "courseName": "Guns and Peasants in East Asia"
+            "code": "HIS554",
+            "name": "Guns and Peasants in East Asia"
         }
     ]
 }
