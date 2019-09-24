@@ -46,8 +46,8 @@
         },
         {
             "id": 8,
-            "courseCode": "WEB322",
-            "courseName": "Web Programming Tools and Framework"
+            "code": "WEB322",
+            "name": "Web Programming Tools and Framework"
         },
         {
             "id": 9,
